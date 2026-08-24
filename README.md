@@ -114,7 +114,3 @@ python music_artist_shuffle_renamer.py
 - Python 3.9 或更高版本
 - Windows 10 或 Windows 11
 - Tkinter 图形界面
-
-## License
-
-This project is licensed under the MIT License.
